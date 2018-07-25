@@ -1,4 +1,9 @@
+#least coins challenge 
+# write a function that takes a number or cents and gives me how many coins I need 
 
+def least_coins(cents)
+  
+end
 
 
 
